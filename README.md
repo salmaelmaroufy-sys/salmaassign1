@@ -22,3 +22,4 @@ git status
 
 ## Image
 ![Project banner](assets/project-banner.svg)
+   Learning goals: understand staging, branching and merging.
